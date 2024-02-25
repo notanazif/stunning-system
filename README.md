@@ -7,12 +7,14 @@
     <th align=center> Update </th>
     <td align=center> Operating System </td>
     <th align=center> Language </th>
+    <th align=center> Password </th>
     </tr>
     <tr>
     <td align=center> Softs </td>
     <td align=center> 24.02.2024 </td>
     <td align=center> Windows 10,11 </td>
     <td align=center> Multi </td>
+    <td align=center> 2024 </td>
     </td>
     </tr>
 </table>
